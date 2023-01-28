@@ -84,8 +84,8 @@
             display: block;
         }
 
-        h1 h2.fonte {
-            font-family: 'Leckerli One', cursive;
+        .fonte {
+            font-family: idroid;
         }
         
         main {
