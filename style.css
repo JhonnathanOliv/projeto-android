@@ -50,6 +50,7 @@
             color: #F6F6F6;
             font-family: 'Bebas Neue', cursive;
             font-size: 3em;
+            max-width: 600px;
             text-align: center;
             text-shadow: 2px 2px 0px rgb(0 0 0 / 27%);
         }
