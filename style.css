@@ -50,7 +50,6 @@
             color: #F6F6F6;
             font-family: 'Bebas Neue', cursive;
             font-size: 3em;
-            min-width: 400px;
             text-align: center;
             text-shadow: 2px 2px 0px rgb(0 0 0 / 27%);
         }
@@ -89,6 +88,7 @@
         main {
             border-radius: 10px 10px 0px 0px;
             padding-bottom: 15px;
+            margin: auto;
         }
         
         article {
