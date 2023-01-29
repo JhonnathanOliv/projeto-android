@@ -42,6 +42,7 @@
             padding-left: 10px;
             padding-right: 10px;
             margin-top: 25px;
+            text-align: center;
         }
 
         header > h1#principal {
@@ -113,7 +114,7 @@
             margin: 15px 25px;
             line-height: 2.5em;
             text-indent: 30px;
-            text-align: center;
+            text-align: justify;
         }
 
         main > article > h2 {
@@ -193,9 +194,8 @@
             text-indent: 20px;
             line-height: 30px;
             font-family: Arial, Helvetica, sans-serif;
-            margin: 10px 10px  0px 10px;
+            margin: 10px 7px  0px 7px;
             padding-bottom: 10px;
-            margin-left: 8px;
         }
 
         article.artigo > ul {
